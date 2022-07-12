@@ -9,3 +9,4 @@ class SecoundActivity: AppCompatActivity() {
         setContentView(R.layout.secound_main)
     }
 }
+// this commend
